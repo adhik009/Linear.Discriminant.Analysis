@@ -1,12 +1,12 @@
 # Linear.Discriminant.Analysis
 Linear Discriminant Analysis to predict Hall of Fame status of baseball players. The data used is also in the directory.
 A subset of variables were used.
- H = Hits /n
- HR = Home Runs
- RBI = Return base percentage
- AVG = Batting average
- SLG = Slogging percentage
- OBP = On base percentage
+ # H = Hits
+ # HR = Home Runs
+ # RBI = Return base percentage
+ # AVG = Batting average
+ # SLG = Slogging percentage
+ # OBP = On base percentage
 
 # Interpretation of the results
 Coefficients of linear discriminants:
